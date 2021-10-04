@@ -2,9 +2,6 @@
 
 The goal of this project was to get familiar with the basics of GraphQL and Apollo Server by creating a GraphQL layer on top of an existing API endpoint. Using the [Coronavirus Smartable API](https://rapidapi.com/SmartableAI/api/coronavirus-smartable/) and Apollo Server, I built a simple GraphQL server that I can query as a client to get Covid-19 stats about each U.S. state.
 
-## Live Page
-[https://piwanaga.github.io/covid-stats/](https://piwanaga.github.io/covid-stats/)
-
 ## Installation
 
 Clone the repo.
